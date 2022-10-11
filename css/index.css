@@ -1,18 +1,21 @@
+body {
+  background: #F3E0F9;
+}
+
 .navbar {
   top: 0;
-  bottom: 0;
   transition: all ease-in-out 0.5s;
-  z-index: 9997;
+  /*z-index: 9997;*/
   transition: all 0.5s;
-  padding: 0 15px;
+  padding: 6px 15px;
   background: #c4c4c4;
   /*overflow-y: auto;*/
 }
 
 .navbar > a {
-  float: left;
+  /*float: left;*/
   text-align: center;
-  padding: 14px 16px;
+  padding: 16px 16px;
   text-decoration: none;
   font-size: 17px;
 }
